@@ -1,0 +1,6 @@
+domains:
+  - ict-du-backend
+secured: true
+proxy:
+  command: python app.py
+  port: 3000
